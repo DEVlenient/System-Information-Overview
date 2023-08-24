@@ -24,7 +24,7 @@
 
 ## 範例演示
 
-<img src="pic/screenshot.png" alt="示例圖片" width="600">
+<img src="pic/screenshot.png" width="600">
 
 
 ## 開發環境
